@@ -1,0 +1,1002 @@
+image_path,labels,Circle_amount,Tri_amount,Rec_amount,Circle_ex,Tri_ex,Rec_ex
+/content/combination_images/combination-0.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-1.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-10.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-100.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-101.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-102.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-103.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-104.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-105.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-106.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-107.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-108.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-109.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-11.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-110.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-111.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-112.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-113.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-114.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-115.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-116.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-117.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-118.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-119.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-12.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-120.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-121.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-122.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-123.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-124.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-125.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-126.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-127.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-128.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-129.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-13.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-130.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-131.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-132.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-133.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-134.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-135.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-136.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-137.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-138.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-139.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-14.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-140.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-141.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-142.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-143.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-144.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-145.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-146.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-147.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-148.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-149.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-15.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-150.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-151.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-152.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-153.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-154.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-155.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-156.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-157.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-158.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-159.png,triangle,0,2,0,0,1,0
+/content/combination_images/combination-16.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-160.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-161.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-162.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-163.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-164.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-165.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-166.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-167.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-168.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-169.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-17.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-170.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-171.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-172.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-173.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-174.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-175.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-176.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-177.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-178.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-179.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-18.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-180.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-181.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-182.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-183.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-184.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-185.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-186.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-187.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-188.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-189.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-19.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-190.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-191.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-192.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-193.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-194.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-195.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-196.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-197.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-198.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-199.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-2.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-20.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-200.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-201.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-202.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-203.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-204.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-205.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-206.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-207.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-208.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-209.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-21.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-210.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-211.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-212.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-213.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-214.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-215.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-216.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-217.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-218.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-219.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-22.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-220.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-221.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-222.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-223.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-224.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-225.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-226.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-227.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-228.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-229.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-23.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-230.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-231.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-232.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-233.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-234.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-235.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-236.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-237.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-238.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-239.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-24.png,triangle,0,2,0,0,1,0
+/content/combination_images/combination-240.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-241.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-242.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-243.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-244.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-245.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-246.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-247.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-248.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-249.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-25.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-250.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-251.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-252.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-253.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-254.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-255.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-256.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-257.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-258.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-259.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-26.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-260.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-261.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-262.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-263.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-264.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-265.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-266.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-267.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-268.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-269.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-27.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-270.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-271.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-272.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-273.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-274.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-275.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-276.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-277.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-278.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-279.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-28.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-280.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-281.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-282.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-283.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-284.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-285.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-286.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-287.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-288.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-289.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-29.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-290.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-291.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-292.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-293.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-294.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-295.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-296.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-297.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-298.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-299.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-3.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-30.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-300.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-301.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-302.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-303.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-304.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-305.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-306.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-307.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-308.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-309.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-31.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-310.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-311.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-312.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-313.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-314.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-315.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-316.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-317.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-318.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-319.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-32.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-320.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-321.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-322.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-323.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-324.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-325.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-326.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-327.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-328.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-329.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-33.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-330.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-331.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-332.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-333.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-334.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-335.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-336.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-337.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-338.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-339.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-34.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-340.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-341.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-342.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-343.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-344.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-345.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-346.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-347.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-348.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-349.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-35.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-350.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-351.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-352.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-353.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-354.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-355.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-356.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-357.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-358.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-359.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-36.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-360.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-361.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-362.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-363.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-364.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-365.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-366.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-367.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-368.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-369.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-37.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-370.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-371.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-372.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-373.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-374.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-375.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-376.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-377.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-378.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-379.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-38.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-380.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-381.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-382.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-383.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-384.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-385.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-386.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-387.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-388.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-389.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-39.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-390.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-391.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-392.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-393.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-394.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-395.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-396.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-397.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-398.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-399.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-4.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-40.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-400.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-401.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-402.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-403.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-404.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-405.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-406.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-407.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-408.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-409.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-41.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-410.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-411.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-412.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-413.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-414.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-415.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-416.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-417.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-418.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-419.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-42.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-420.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-421.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-422.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-423.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-424.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-425.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-426.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-427.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-428.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-429.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-43.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-430.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-431.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-432.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-433.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-434.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-435.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-436.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-437.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-438.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-439.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-44.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-440.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-441.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-442.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-443.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-444.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-445.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-446.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-447.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-448.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-449.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-45.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-450.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-451.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-452.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-453.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-454.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-455.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-456.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-457.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-458.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-459.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-46.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-460.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-461.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-462.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-463.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-464.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-465.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-466.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-467.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-468.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-469.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-47.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-470.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-471.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-472.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-473.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-474.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-475.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-476.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-477.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-478.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-479.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-48.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-480.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-481.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-482.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-483.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-484.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-485.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-486.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-487.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-488.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-489.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-49.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-490.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-491.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-492.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-493.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-494.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-495.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-496.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-497.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-498.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-499.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-5.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-50.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-500.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-501.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-502.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-503.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-504.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-505.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-506.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-507.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-508.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-509.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-51.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-510.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-511.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-512.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-513.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-514.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-515.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-516.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-517.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-518.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-519.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-52.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-520.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-521.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-522.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-523.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-524.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-525.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-526.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-527.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-528.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-529.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-53.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-530.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-531.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-532.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-533.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-534.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-535.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-536.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-537.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-538.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-539.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-54.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-540.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-541.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-542.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-543.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-544.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-545.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-546.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-547.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-548.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-549.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-55.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-550.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-551.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-552.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-553.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-554.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-555.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-556.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-557.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-558.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-559.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-56.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-560.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-561.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-562.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-563.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-564.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-565.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-566.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-567.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-568.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-569.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-57.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-570.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-571.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-572.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-573.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-574.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-575.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-576.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-577.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-578.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-579.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-58.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-580.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-581.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-582.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-583.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-584.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-585.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-586.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-587.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-588.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-589.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-59.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-590.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-591.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-592.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-593.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-594.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-595.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-596.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-597.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-598.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-599.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-6.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-60.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-600.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-601.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-602.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-603.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-604.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-605.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-606.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-607.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-608.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-609.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-61.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-610.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-611.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-612.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-613.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-614.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-615.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-616.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-617.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-618.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-619.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-62.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-620.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-621.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-622.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-623.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-624.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-625.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-626.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-627.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-628.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-629.png,triangle,0,2,0,0,1,0
+/content/combination_images/combination-63.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-630.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-631.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-632.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-633.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-634.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-635.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-636.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-637.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-638.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-639.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-64.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-640.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-641.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-642.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-643.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-644.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-645.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-646.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-647.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-648.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-649.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-65.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-650.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-651.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-652.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-653.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-654.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-655.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-656.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-657.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-658.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-659.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-66.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-660.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-661.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-662.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-663.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-664.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-665.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-666.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-667.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-668.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-669.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-67.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-670.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-671.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-672.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-673.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-674.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-675.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-676.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-677.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-678.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-679.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-68.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-680.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-681.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-682.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-683.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-684.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-685.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-686.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-687.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-688.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-689.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-69.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-690.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-691.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-692.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-693.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-694.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-695.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-696.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-697.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-698.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-699.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-7.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-70.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-700.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-701.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-702.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-703.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-704.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-705.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-706.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-707.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-708.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-709.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-71.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-710.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-711.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-712.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-713.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-714.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-715.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-716.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-717.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-718.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-719.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-72.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-720.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-721.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-722.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-723.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-724.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-725.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-726.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-727.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-728.png,triangle,0,2,0,0,1,0
+/content/combination_images/combination-729.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-73.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-730.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-731.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-732.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-733.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-734.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-735.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-736.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-737.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-738.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-739.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-74.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-740.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-741.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-742.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-743.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-744.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-745.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-746.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-747.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-748.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-749.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-75.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-750.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-751.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-752.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-753.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-754.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-755.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-756.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-757.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-758.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-759.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-76.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-760.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-761.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-762.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-763.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-764.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-765.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-766.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-767.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-768.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-769.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-77.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-770.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-771.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-772.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-773.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-774.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-775.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-776.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-777.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-778.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-779.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-78.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-780.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-781.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-782.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-783.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-784.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-785.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-786.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-787.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-788.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-789.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-79.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-790.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-791.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-792.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-793.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-794.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-795.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-796.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-797.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-798.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-799.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-8.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-80.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-800.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-801.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-802.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-803.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-804.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-805.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-806.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-807.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-808.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-809.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-81.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-810.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-811.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-812.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-813.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-814.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-815.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-816.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-817.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-818.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-819.png,triangle,0,2,0,0,1,0
+/content/combination_images/combination-82.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-820.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-821.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-822.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-823.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-824.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-825.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-826.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-827.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-828.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-829.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-83.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-830.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-831.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-832.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-833.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-834.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-835.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-836.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-837.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-838.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-839.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-84.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-840.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-841.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-842.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-843.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-844.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-845.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-846.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-847.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-848.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-849.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-85.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-850.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-851.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-852.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-853.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-854.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-855.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-856.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-857.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-858.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-859.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-86.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-860.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-861.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-862.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-863.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-864.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-865.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-866.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-867.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-868.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-869.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-87.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-870.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-871.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-872.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-873.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-874.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-875.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-876.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-877.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-878.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-879.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-88.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-880.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-881.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-882.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-883.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-884.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-885.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-886.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-887.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-888.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-889.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-89.png,triangle,0,2,0,0,1,0
+/content/combination_images/combination-890.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-891.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-892.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-893.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-894.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-895.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-896.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-897.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-898.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-899.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-9.png,"triangle, circle",1,1,0,1,1,0
+/content/combination_images/combination-90.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-900.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-901.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-902.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-903.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-904.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-905.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-906.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-907.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-908.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-909.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-91.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-910.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-911.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-912.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-913.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-914.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-915.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-916.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-917.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-918.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-919.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-92.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-920.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-921.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-922.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-923.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-924.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-925.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-926.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-927.png,triangle,0,2,0,0,1,0
+/content/combination_images/combination-928.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-929.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-93.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-930.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-931.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-932.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-933.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-934.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-935.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-936.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-937.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-938.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-939.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-94.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-940.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-941.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-942.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-943.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-944.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-945.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-946.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-947.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-948.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-949.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-95.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-950.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-951.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-952.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-953.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-954.png,"triangle, circle",1,2,0,1,1,0
+/content/combination_images/combination-955.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-956.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-957.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-958.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-959.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-96.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-960.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-961.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-962.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-963.png,", circle",2,0,0,1,0,0
+/content/combination_images/combination-964.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-965.png,", circle, rectangle",1,0,2,1,0,1
+/content/combination_images/combination-966.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-967.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-968.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-969.png,triangle,0,1,0,0,1,0
+/content/combination_images/combination-97.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-970.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-971.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-972.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-973.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-974.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-975.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-976.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-977.png,", circle",3,0,0,1,0,0
+/content/combination_images/combination-978.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-979.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-98.png,"triangle, rectangle",0,2,1,0,1,1
+/content/combination_images/combination-980.png,"triangle, circle",2,1,0,1,1,0
+/content/combination_images/combination-981.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-982.png,"triangle, rectangle",0,1,1,0,1,1
+/content/combination_images/combination-983.png,", rectangle",0,0,1,0,0,1
+/content/combination_images/combination-984.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-985.png,"triangle, circle, rectangle",1,1,1,1,1,1
+/content/combination_images/combination-986.png,", circle, rectangle",1,0,1,1,0,1
+/content/combination_images/combination-987.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-988.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-989.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-99.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-990.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-991.png,"triangle, rectangle",0,1,2,0,1,1
+/content/combination_images/combination-992.png,", circle, rectangle",2,0,1,1,0,1
+/content/combination_images/combination-993.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-994.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-995.png,triangle,0,3,0,0,1,0
+/content/combination_images/combination-996.png,", circle",1,0,0,1,0,0
+/content/combination_images/combination-997.png,", rectangle",0,0,2,0,0,1
+/content/combination_images/combination-998.png,", rectangle",0,0,3,0,0,1
+/content/combination_images/combination-999.png,"triangle, rectangle",0,2,1,0,1,1
+,,,,,,,
